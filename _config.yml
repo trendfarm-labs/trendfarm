@@ -1,0 +1,1 @@
+yaml <br> include: <br> - "*.xml" <br> mime_types: <br> - extension: xml <br> mime_type: application/xml <br>
