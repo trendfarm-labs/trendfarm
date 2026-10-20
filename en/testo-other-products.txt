@@ -1,4 +1,4 @@
-In the landscape of modern **financial markets**, the speed, mathematical rigor, and stability of execution infrastructures determine the borderline between the commercial success and failure of strategies. The **NEXUS MATRIX SYSTEM** offers immediate benefits for long-term **returns** sustainability thanks to targeted engineering solutions.
+In the landscape of modern **financial markets**, the speed, mathematical rigor, and stability of execution infrastructures determine the borderline between the commercial success and failure of strategies. The **MARKETSOLVER EA** offers immediate benefits for long-term **returns** sustainability thanks to targeted engineering solutions.
 Among the main advantages of the system we find a **24-hour operation**: the **5 engines** scan the markets continuously, eliminating the need to spend hours in front of charts. The **Total control** of emotions ensures that the software executes **automated orders** following strict mathematical rules, wiping out errors due to fear or greed. In addition, the automated **Risk management** instantly calculates the correct size to protect your **capital** and margin based on the account balance. This architecture represents the new professional **automated trading software** designed to offer a complete, secure, and totally independent ecosystem to private investors, funds, and institutional operators.
 The heart of this system is driven by an advanced **cryptographic control unit** that coordinates a fleet of flexible **execution modules**, born to resolve the structural limitations of manual **trading** and permanently eliminate the destructive impact of **emotional psychology** on **charts**.
 The five integrated engines scan global **financial markets** continuously, performing a forensic search for the **best opportunities** and eliminating the need for the **investitor** to spend hours in front of the monitors of their own **workstation**. Depending on the shifting **market** conditions, the operator can decide to configure a **breakout** **expert advisor** to intercept with pinpoint accuracy the **volume momentum** and breakouts of key support and resistance levels, or activate the power of a **hedge** **expert advisor** to open symmetrical **hedging** positions, balance baskets, and protect the **portfolio** during phases of high **volatility** or contrary **trends**.
@@ -7,15 +7,17 @@ Developed to be the definitive **metatrader expert advisor**, the software adapt
 
 - To recap, the independent operating modules that act according to strict mathematical strategies are:
 
-- The **standard module**: represents the institutional **algorithmic** mother **strategy**, programmed to follow primary trend cycles through linear mathematical management of **traditional positions**.
+- The **standard module**: (active) represents the institutional **algorithmic** mother **strategy**, programmed to follow primary trend cycles through linear mathematical management of **traditional positions**.
 
-- The **breakout module**: acts on session **highs and lows** by placing **pending orders** on **volatility breakouts** to intercept fast directional trends.
+- The **hedge module**: (active) comes into operation during sudden **reversal** phases, opening symmetrical **hedging** positions to counterbalance drawdown and protect the account margin.
 
-- The **hedge module**: comes into operation during sudden **reversal** phases, opening symmetrical **hedging** positions to counterbalance drawdown and protect the account margin.
+- The **grid-trend module**: (active) the new trend following strategy that combines **directional strength analysis** with a controlled order grid, ideal for riding the most solid trends without exposing to excessive risks.
 
-- The **reverse module**: a pure **contrarian** engine that detects **volume** exhaustion on **overbought** and **oversold** levels to strike the market exactly at the beginning of the new opposite tendency.
+- The **breakout module**: (coming soon) acts on session **highs and lows** by placing **pending orders** on **volatility breakouts** to intercept fast directional trends.
 
-The **chaser module**: an assault engine designed to chase the most violent market trends, increasing positions in favor of volume momentum to **maximize profits** during sudden price extensions.
+- The **reverse module**: (coming soon) a pure **contrarian** engine that detects **volume** exhaustion on **overbought** and **oversold** levels to strike the market exactly at the beginning of the new opposite tendency.
+
+The **chaser module**: (coming soon) an assault engine designed to chase the most violent market trends, increasing positions in favor of volume momentum to **maximize profits** during sudden price extensions.
 
 The **scalping module**: (coming soon) operates on **minimum time-frames** with ultra-fast orders at zero milliseconds of lag (only on True ECN Accounts), capturing **micro-profits** on parasitic **spread** movements.
 
