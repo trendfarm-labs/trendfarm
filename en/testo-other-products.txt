@@ -17,9 +17,15 @@ In conclusion, the system provides a complete and flexible **forex** **automated
 To recap, the independent operational modules acting according to strict mathematical strategies are:
 
 - The **standard module**: (active) represents the institutional-grade **algorithmic** core **strategy**, programmed to follow primary trend cycles through a linear mathematical management of **traditional positions**.
+
 - The **hedge module**: (active) comes into operation during sudden **reversal** phases, opening symmetrical **hedging** positions to counterbalance drawdown and protect the account margin.
+
 - The **grid-trend module**: (active) the new trend-following strategy that combines **directional strength** analysis with a controlled order grid, ideal for riding the most solid trends without exposure to excessive risks.
+
 - The **breakout module**: (coming soon) acts on session **highs and lows**, placing **pending orders** on **volatility breakouts** to intercept fast directional trends.
+
 - The **reverse module**: (coming soon) a pure **contrarian** engine that detects **volume** exhaustion on **overbought** and **oversold** levels to strike the market exactly at the beginning of the new opposite trend.
+
 - The **chaser module**: (coming soon) an assault engine designed to chase the market's most violent trends, increasing positions in favor of volumetric momentum to **maximize profits** during sudden price extensions.
+
 - The **scalping module**: (coming soon) operates on **minimum time-frames** with lightning-fast orders at zero milliseconds of lag (only on True ECN Accounts), capturing **micro-profits** on parasitic movements of the **spread**.
