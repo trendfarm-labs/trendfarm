@@ -23,5 +23,3 @@ To recap, the independent operational modules acting according to strict mathema
 - The **reverse module**: (coming soon) a pure **contrarian** engine that detects **volume** exhaustion on **overbought** and **oversold** levels to strike the market exactly at the beginning of the new opposite trend.
 - The **chaser module**: (coming soon) an assault engine designed to chase the market's most violent trends, increasing positions in favor of volumetric momentum to **maximize profits** during sudden price extensions.
 - The **scalping module**: (coming soon) operates on **minimum time-frames** with lightning-fast orders at zero milliseconds of lag (only on True ECN Accounts), capturing **micro-profits** on parasitic movements of the **spread**.
-
-========================================================================================================================
