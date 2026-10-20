@@ -184,20 +184,14 @@
     </main>
 
     <script>
+        // 1. Lettura dei file di testo dinamici
         fetch('testo-about-us.txt')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Unable to find text file');
-                }
-                return response.text();
+            .then(response => { if (!response.ok) throw new Error(); return response.text(); })
+            .then(data => { 
+                let testoFormattato = data.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                document.getElementById('testo-dinamico').innerHTML = testoFormattato; 
             })
-            .then(data => {
-                document.getElementById('testo-dinamico').innerText = data;
-            })
-            .catch(error => {
-                document.getElementById('testo-dinamico').innerText = "Error loading content.";
-                console.error(error);
-            });
+            .catch(error => { document.getElementById('testo-dinamico').innerText = "Error loading content."; });
     </script>
 
 </body>
