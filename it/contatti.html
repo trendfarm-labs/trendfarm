@@ -268,7 +268,7 @@
                 const formData = new FormData();
                 formData.append('name', formContatti.querySelector('#nome').value);
                 formData.append('email', formContatti.querySelector('#email').value);
-                formData.append('subject', formContatti.querySelector('#oggetto').value);
+                formData.append('subject', 'IT - ' + formContatti.querySelector('#oggetto').value);
                 formData.append('message', formContatti.querySelector('#messaggio').value);
                 formData.append('_captcha', 'false'); // Disattiva i robot visivi di controllo
 
