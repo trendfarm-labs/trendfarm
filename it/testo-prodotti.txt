@@ -1,5 +1,5 @@
 Il sistema **MARKETSOLVER EA** e' una **piattaforma** di **trading automatico**
-composta da 3 (altri in svilutto) motori strategici indipendenti (versione GOLD). 
+composta da 3 (altri in sviluppo) motori strategici indipendenti (versione GOLD). 
 Ogni modulo possiede una propria costituzione rigida e regole di 
 **gestione del rischio** progettate per proteggere il capitale e 
 massimizzare i profitti nelle diverse condizioni di **mercato**.
